@@ -1,0 +1,11 @@
+title: dali186
+email: nnagicarp@gmail.com
+description: 
+baseurl: "" 
+url: "" 
+twitter_username: dali186
+github_username:  dali186
+
+theme: minima
+plugins:
+  - jekyll-feed
